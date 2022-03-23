@@ -9,4 +9,5 @@
 ![image](https://github.com/9873-kun/Lock-Schedule-Operation-Model/blob/main/images/2%E7%BA%BF%E5%88%A9%E7%94%A8%E7%8E%87.png)  
 三线闸室  
 ![image](https://github.com/9873-kun/Lock-Schedule-Operation-Model/blob/main/images/3%E7%BA%BF%E5%88%A9%E7%94%A8%E7%8E%87.png)  
-6.用winform做界面展示:  ![image]  
+5.用winform做仿真界面展示:  
+![image](https://github.com/9873-kun/Lock-Schedule-Operation-Model/blob/main/images/%E7%95%8C%E9%9D%A2%E5%B1%95%E7%A4%BA.png)
