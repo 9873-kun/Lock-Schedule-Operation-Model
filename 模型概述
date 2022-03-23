@@ -8,9 +8,11 @@
 
 + 分别对应闸室分配、闸室编排和运行调度三个子问题，核心代码见具体章节。  
 
-## 目标函数
+  ## 目标函数
 
 > 船闸调度的目标是在确保安全、高效、兼顾公平的前提下依据“**先到先过、重点优先**”的原则尽可能提高船闸和船舶两方面的效益。因此从船闸过闸利用率和船舶延误时间两个角度考虑目标函数。  
 
 - 平均闸室利用率f1：计划期内过闸船舶的面积之和与各闸室有效面积与过闸次数乘积之和的比值。  
-![image]https://github.com/9873-kun/Lock-Schedule-Operation-Model/blob/main/images/%E7%9B%AE%E6%A0%87%E5%87%BD%E6%95%B0f1.png
+  <img src="https://github.com/9873-kun/Lock-Schedule-Operation-Model/blob/main/images/%E7%9B%AE%E6%A0%87%E5%87%BD%E6%95%B0f1.png">
+- 
+ 
